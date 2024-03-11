@@ -12,7 +12,7 @@ I'm constantly looking for new challenges and opportunities to learn and grow in
 
 ### Programming Languages and Tools 🌐
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="24">](https://php.net/)  | [<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="24">](https://vuejs.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="24">](https://getbootstrap.com/) | [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jQuery" width="24">](https://jquery.com/)
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="24">  | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="24"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="24"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jQuery" width="24">
 |---|---|---|---|---|
 
 ### Github Stats
